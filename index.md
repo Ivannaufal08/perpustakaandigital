@@ -1,5 +1,11 @@
 # Digital Library
 Selamat Datang di Perpustakaan Digital
+
+Perpustakaan Ini Disusun Oleh :
+Nama  : Muhammad Ivan Naufal Zaki Rasyidin 
+NIM   : 13040124120007 
+Kelas : A
+
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [Pentingnya Pendidikian Karakter di Era Digital](ebook/Pentingnya Pendidikian Karakter di Era Digital.pdf) – Firdaus.F.M, dkk (2019) 
