@@ -11,7 +11,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [Buku Ajar Essay Writing](ebook/Ebook Buku Ajar Essay Writing.pdf) - Lalu Suhirman, dkk (2025)
 8. [Manajemen](ebook/Manajemen.pdf) - Lilis Sulastri (2014)
 9. [Pengantar Ilmu Administrasi Publik](ebook/Ebook Pengantar Ilmu Administrasi Publik.pdf) - Amas Mashudin (2025)
-10. [Ilmu Kedokteran Dasar](ebook/Buku Ilmu Kedokteran Dasar(1).pdf) - Maitri Anindita, dkk (2025)
-11. 
+10. [Ilmu Kedokteran Dasar](ebook/Buku Ilmu Kedokteran Dasar.pdf) - Maitri Anindita, dkk (2025)
+11. [Ringkasan UGC PATI](ringkasan/Ringkasan UGC PATI) - Muhammad Ivan Naufal Zaki Rasyidin (2026)
 ---
 *Powered by GitHub Pages*
